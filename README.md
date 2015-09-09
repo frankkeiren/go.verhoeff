@@ -1,0 +1,2 @@
+# go.verhoeff
+Verhoeff checksum
